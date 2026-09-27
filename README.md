@@ -9,7 +9,10 @@
 An AI-powered SQL assistant that converts natural language into SQL queries and displays the results in an interactive dashboard.
 
 ---
+## 🚀 Live Demo
 
+[Smart SQL Assistant](https://smart-sql-assistant-dqsb5bajq5w9daelsxgcp5.streamlit.app/)
+---
 ## 🚀 Features
 
 ✨ Convert natural language into SQL queries
